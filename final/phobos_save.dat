@@ -1,5 +1,13 @@
-PHOBOS_SAVE_V1
-NAME:Daniel
-LEVEL:1
-HEALTH:100
-LOCATION:Bridge
+{
+  "version": "PHOBOS_SAVE_V2",
+  "player": {
+    "name": "daniellll",
+    "level": 1,
+    "health": 100,
+    "location": "Bridge"
+  },
+  "gameData": {
+    "state": "newGame",
+    "playTime": 0
+  }
+}
