@@ -1,4 +1,5 @@
 -std=c++17
+-xc++
 -I/opt/homebrew/include
 -L/opt/homebrew/lib
 -lsfml-graphics
