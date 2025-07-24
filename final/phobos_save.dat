@@ -1,0 +1,13 @@
+{
+  "version": "PHOBOS_SAVE_V2",
+  "player": {
+    "name": "daniellll",
+    "level": 1,
+    "health": 100,
+    "location": "Bridge"
+  },
+  "gameData": {
+    "state": "newGame",
+    "playTime": 0
+  }
+}

@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+phobos
+
+*.DS_store
+*.dat
