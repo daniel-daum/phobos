@@ -1,3 +1,0 @@
-Deposit: $100 | New Balance: $100
-Purchase - Coffee: $4.5 | New Balance: $95.5
-Purchase - Book: $25 | New Balance: $70.5

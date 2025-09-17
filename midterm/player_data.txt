@@ -1,4 +1,0 @@
-Player Name: Unknown
-Health: 100
-Level: 1
-Ship Status: Operational
